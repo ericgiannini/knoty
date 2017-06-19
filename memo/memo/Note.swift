@@ -115,7 +115,7 @@ extension Note {
         return UserDefaults.standard
     }
     // save notes in an inst. of NSArray
-    static func saveNotes(notes: [Note]) {
+    static func save(notes: [Note]) {
         
         let nsArray = notes as NSArray
         let data = NSKeyedArchiver.archivedData(withRootObject: nsArray)
