@@ -1,6 +1,6 @@
 # Verifying a phone number in Swift with Nexmo's API! 
 
-In this tutorial you learn how to use our Swift framework to verify a user's phone number with an SMS.
+In this tutorial you learn how to verify a user's phone number Nexmo's API.
 
 # Overview - what are we going to learn and build
 
