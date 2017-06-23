@@ -44,7 +44,7 @@ platform :ios, '10.0'
 
 > Note: If you are unfamiliar with Xcode, then try out Apple's own **Intro to App Development with Swift**: https://itunes.apple.com/us/book/intro-to-app-development-with-swift/
 
-#Building the UI
+# Building the UI
 
 With the setup out of the way let's focus on building the user interface for verification. 
 
@@ -56,7 +56,7 @@ With the setup out of the way let's focus on building the user interface for ver
 
 4. Add a Button, control dragging from it to the VerifyViewController to create an action called `verifyTelephoneNumber`. 
 
-5. Add a Button, control dragging from it to the PinViewController to create an action called `verifyPin`. 
+5. Add a Button, control dragging from it to the VerifyViewController to create an action called `verifyPin`. 
 
 6. Finally, control drag from the VerifyViewController's yellow circle of life to the starter code's NotesController, creating a segue called `presentNotes`. 
 
